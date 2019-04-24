@@ -1,0 +1,12 @@
+Package: biostat815project
+Type: Package
+Title: BIOSTAT 815 Term Project
+Version: 1.0
+Date: 2019-04-23
+Author: Chao Gao
+Maintainer: Chao Gao <gchao@umich.edu>
+Description: A reimplementation of existing R package bootSVD in Rcpp
+License: GPL-3
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.1.1
