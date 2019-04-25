@@ -1,5 +1,5 @@
 # BIOSTAT815project
-A reimplementation of bootSVD R package (Author: Dr.Aaron Fisher) in Rcpp
+A reimplementation of bootSVD R package (Author: Dr.Aaron Fisher) in Rcpp <b>
 reference: (https://cran.r-project.org/web/packages/bootSVD/index.html)
 
 ## Sample Code
