@@ -14,3 +14,9 @@ library(RcppArmadillo)
 library(bootSVD)
 library(biostat815project)
 ```
+### Generate simulated data
+```
+set.seed(0)
+Y <- bootSVD::simEEG(n=100, centered=TRUE, wide=TRUE) 
+Y_long = t(Y) # wide format to long format data
+```
